@@ -18,6 +18,7 @@ export default function Footer(props) {
                     </ul>
 
                     <ul className="copyright">
+                        <li>Thanks to Mírian Silva for this Guided project on Coursera</li>
                         <li>&copy; Copyright 2020 Mírian Silva</li>
                         <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
                     </ul>

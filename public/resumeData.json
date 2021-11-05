@@ -1,127 +1,140 @@
 {
     "main": {
-        "name": "Hermione Granger",
-        "description": "I'm a web development engineer and I use react and python to develop pages...",
+        "name": "Fabrice HUET",
+        "description": "Développeur Front-End, j'apprécie React.js pour développer des applications web.",
         "image": "profilepic.jpg",
-        "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+        "bio": "Après une formation de 5 mois à la Wild Code School pour devenir développeur Front-End, je suis maintenant à la recherche de ma première expérience professionelle comme développeur. D'une nature altruiste, j'adore travailler en équipe sur des projets communs, et je ne cesse de me former aux différentes technologies que je n'ai pas pu apprendre au cours de ma formation.",
         "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-        "email": "youremailhere@gmail.com",
-        "phone": "555-555-5555",
-        "github": "https://github.com/",
+        "email": "fhuet99@gmail.com",
+        "phone": "+33 6 63 19 21 30",
+        "github": "https:github.com/Fabrice-HUET",
         "project": "https://github.com/",
         "address": {
-            "street": "(Your Street)",
-            "city": "(Your City)",
-            "state": "(Your State)"
+            "street": "9 chemin du Croule",
+            "city": "37320 ESVRES",
+            "state": "FR"
         },
         "website": "https://github.com/",
         "resumedownload": "https://github.com/",
         "social": [
             {
-                "name": "facebook",
-                "url": "https://github.com/",
-                "className": "fa fa-facebook"
-            },
-            {
-                "name": "twitter",
-                "url": "http://twitter.com",
-                "className": "fa fa-twitter"
-            },
-            {
                 "name": "linkedin",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/fabrice-huet/",
                 "className": "fa fa-linkedin"
             },
             {
-                "name": "instagram",
-                "url": "http://instagram.com/",
-                "className": "fa fa-instagram"
-            },
-            {
                 "name": "github",
-                "url": "https://github.com/",
+                "url": "https:github.com/Fabrice-HUET",
                 "className": "fa fa-github"
             }
         ]
     },
     "resume": {
-        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "skillmessage": "",
         "education": [
             {
-                "school": "University?",
-                "degree": "Masters in Beer tasting",
-                "graduated": "April 2007",
-                "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+                "school": "Wild Code School",
+                "degree": "Certification développeur Front-End",
+                "graduated": "Novembre 2021",
+                "description1": "Conception d'application et utilisation des bonnes pratiques UI/UX",
+                "description2": "Intégration d'une interface utilisateur avec HTML, CSS, Javascript et en faire une interface responsive avec CSS3 Flutter / React Native",
+                "description3": "Développement d'application front-end: en utilisant la librairie React et Node.js",
+                "description4": "Continuer à s’auto-perfectionner en tant que développeur"
             },
             {
-                "school": "Hogwarts School of Witchcraft and Wizardry",
-                "degree": "Gryffindor House",
-                "graduated": "March 2003",
-                "description": "Received 10 Outstandings in Care of Magical Creatures, Transfiguration, Potions, Charms, Herbology, Astronomy, History of Magic, Arithmancy, Ancient Runes, and Wandmaking."
+                "school": "Institut du Travail Social",
+                "degree": "Accompagnant Educatif et Social",
+                "graduated": "Mai 2018",
+                "description1":"Se positionner comme professionnel dans le champ de l’action sociale",
+                "description2":"Accompagner la personne au quotidien et dans la proximité",
+                "description3":"Coopérer avec l’ensemble des professionnels concernés",
+                "description4":"Participer à l’animation de la vie sociale et citoyenne de la personne"
             }
         ],
         "work": [
             {
-                "company": "Department of Magical Law Enforcement",
-                "title": "Ministry of Magic",
-                "years": "December 2010 - Present",
-                "description": "Work to put an end to pro-pureblood laws through negotiation, petitions, and enforcing and creating fair laws for the wizarding community.s"
+                "company": "ADMR LES MAISONNEES",
+                "title": "Accompagnant éducatif et social",
+                "years": "Août 2017 - Novembre 2020",
+                "description1": "Accompagnement d'adultes autistes dans leur vie quotidienne au sein d'une structure d'accueil afin de les aider à assumer leur statut d'adulte, dépasser leur différence,devenir autonomes et s'intégrer dans la société."
             },
             {
-                "company": "Department for the Regulation and Control of Magical Creatures",
-                "title": "Ministry of Magic",
-                "years": "March 2007 - December 2010",
-                "description": "Worked to improve the quality of life for house-elves and other disenfranchised creatures."
+                "company": "JTI (Japan Tobacco International)",
+                "title": "Attaché commercial Tabac",
+                "years": "Novembre 2015 - Novembre 2016",
+                "description1": "Organiser et préparer les visites en recherchant l'impact optimal",
+                "description2": "Développer le référencement et l'assortiment des gammes",
+                "description3": "Assurer et optimiser la visibilité des produits et des PLV",
+                "description4": "Soutenir le lancement de nouveaux produits",
+                "description5": "Conseiller les buralistes sur leurs problématiques (stocks, législation)",
+                "description6": "Gestion, analyse et mise à jour du portefeuille de clients pour développer des opportunités commerciales appropriées"
+            },
+            {
+                "company": "TECHNIQUE INDUSTRIELLE DE PLASTIFICATION TIP",
+                "title": "Responsable des ventes",
+                "years": "Janvier 2013 - Novembre 2015",
+                "description1": "Assurer le suivi technique et commercial des clients",
+                "description2": "Veiller à l'évolution technique et commerciale de la gamme",
+                "description3": "Assurer la vente et la prospection",
+                "description4": "Passer les commandes auprès de fournisseurs et gestion des stocks",
+                "description5": "Utilisation courante de l'anglais auprès de notre fournisseur basé au Royaume-Uni et traduction des fiches techniques des produits",
+                "description6": "Evaluer la concurrence et proposer les réactions adaptées"
             }
         ],
         "skills": [
             {
-                "name": "Python",
-                "level": "60%"
+                "name": "HTML5",
+                "level": "80%"
             },
             {
-                "name": "VueJs",
-                "level": "55%"
+                "name": "CSS3",
+                "level": "80%"
             },
             {
                 "name": "ReactJs",
-                "level": "50%"
+                "level": "70%"
             },
             {
-                "name": "CSS",
-                "level": "90%"
+                "name": "Javascript",
+                "level": "65%"
             },
             {
-                "name": "JAVA",
-                "level": "80%"
+                "name": "Bootstrap / Tailwind",
+                "level": "70%"
             }
         ]
     },
     "portfolio": {
         "projects": [
             {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
-                "image": "project1.jpg",
+                "title": "Page personnelle",
+                "category": "Page personnelle réalisée dans le cadre d'un projet guidé sur Coursera",
+                "image": "project5.jpg",
                 "url": "https://www.google.com"
             },
             {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
-                "image": "project2.jpg",
-                "url": "https://www.google.com"
-            },
-            {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
-                "image": "project3.jpg",
-                "url": "https://www.google.com"
-            },
-            {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "title": "MeeTondev",
+                "category": "Projet final de formation en équipe de 3, disponible le 06 Novembre 2021",
                 "image": "project4.jpg",
                 "url": "https://www.google.com"
+            },
+            {
+                "title": "Battle Changer",
+                "category": "Projet réalisé dans le cadre d'un Hackathon de 24h en équipe de 3",
+                "image": "project3.jpg",
+                "url": "https://battlechanger.herokuapp.com/"
+            },
+            {
+                "title": "Ristorante Confusion",
+                "category": "Projet réalisé dans le cadre d'une formation Bootstrap sur Coursera",
+                "image": "project2.jpg",
+                "url": "https://github.com/Fabrice-HUET/Ristorante-Confusion"
+            },
+            {
+                "title": "Souplade",
+                "category": "Premier projet réalisé à la Wild Code School",
+                "image": "project1.jpg",
+                "url": "https://fabrice-huet.github.io/Souplade/"
             }
         ]
     }

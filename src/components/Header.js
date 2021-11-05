@@ -22,16 +22,16 @@ export default function Header(props) {
 
     return (
         <header id="home">
-            <ParticlesBg type="circle" bg={true} />
+            <ParticlesBg type="lines" bg={true} />
             <nav id="nav-wrap">
                 <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
                 <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
 
                 <ul id="nav" className="nav">
-                    <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
-                    <li><a className="smoothscroll" href="#about">About</a></li>
-                    <li><a className="smoothscroll" href="#resume">Resume</a></li>
-                    <li><a className="smoothscroll" href="#portfolio">Works</a></li>
+                    <li className="current"><a className="smoothscroll" href="#home">Accueil</a></li>
+                    <li><a className="smoothscroll" href="#about">A propos</a></li>
+                    <li><a className="smoothscroll" href="#resume">Parcours</a></li>
+                    <li><a className="smoothscroll" href="#portfolio">Projets</a></li>
                 </ul>
             </nav>
             <div className="row banner">

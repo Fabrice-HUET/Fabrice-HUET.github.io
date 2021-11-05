@@ -6,14 +6,23 @@ export default function Resume(props) {
         var skillmessage = props.data.skillmessage;
         var education = props.data.education.map(function (education) {
             return <div key={education.school}><h3>{education.school}</h3>
-                <p className="info">{education.degree} <span>&bull;</span><em className="date">{education.graduated}</em></p>
-                <p>{education.description}</p></div>
+                        <p className="info">{education.degree} <span>&bull;</span><em className="date">{education.graduated}</em></p>
+                        <p>{education.description1}</p>
+                        <p>{education.description2}</p>
+                        <p>{education.description3}</p>
+                        <p>{education.description4}</p>
+                    </div>
         })
         var work = props.data.work.map(function (work) {
             return <div key={work.company}><h3>{work.company}</h3>
-                <p className="info">{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
-                <p>{work.description}</p>
-            </div>
+                        <p className="info">{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
+                        <p>{work.description1}</p>
+                        <p>{work.description2}</p>
+                        <p>{work.description3}</p>
+                        <p>{work.description4}</p>
+                        <p>{work.description5}</p>
+                        <p>{work.description6}</p>
+                    </div>
         })
 
         var skills = props.data.skills.map((skills) => {
@@ -30,7 +39,7 @@ export default function Resume(props) {
         <section id="resume">
             <div className="row education">
                 <div className="three columns header-col">
-                    <h1><span>Education</span></h1>
+                    <h1><span>Formation</span></h1>
                 </div>
 
                 <div className="nine columns main-col">
@@ -45,7 +54,7 @@ export default function Resume(props) {
 
             <div className="row work">
                 <div className="three columns header-col">
-                    <h1><span>Work</span></h1>
+                    <h1><span>Parcours</span></h1>
                 </div>
                 <div className="nine columns main-col">
                     {work}
