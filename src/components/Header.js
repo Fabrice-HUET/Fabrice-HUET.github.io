@@ -38,7 +38,7 @@ export default function Header(props) {
             <div className="row banner">
                 <div className="banner-text">
                     <h1 className="responsive-headline">{name}</h1>
-                    <h3>{description}</h3>
+                    <h2>{description}</h2>
                     <hr/>
                     <ul className="social-links">
                         {networks}
