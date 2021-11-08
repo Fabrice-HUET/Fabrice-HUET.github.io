@@ -120,13 +120,13 @@
             },
             {
                 "title": "Battle Changer",
-                "category": "Projet réalisé dans le cadre d'un Hackathon de 24h en équipe de 3",
+                "category": "Projet réalisé dans le cadre d'un Hackathon de 24h en équipe de 3, React et API",
                 "image": "project3.jpg",
                 "url": "https://battlechanger.herokuapp.com/"
             },
             {
                 "title": "Ristorante Confusion",
-                "category": "Projet réalisé dans le cadre d'une formation Bootstrap sur Coursera",
+                "category": "Premier projet réalisé dans le cadre d'une formation Bootstrap sur Coursera",
                 "image": "project2.jpg",
                 "url": "https://github.com/Fabrice-HUET/Ristorante-Confusion"
             },
