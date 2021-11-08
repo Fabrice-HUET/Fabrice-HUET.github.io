@@ -107,16 +107,22 @@
     "portfolio": {
         "projects": [
             {
+                "title": "En cours ",
+                "category": "Work in progress",
+                "image": "",
+                "url": ""
+            },
+            {
                 "title": "Page personnelle",
-                "category": "Page personnelle réalisée dans le cadre d'un projet guidé sur Coursera",
+                "category": "",
                 "image": "project5.jpg",
-                "url": "https://www.google.com"
+                "url": "https://fabrice-huet.herokuapp.com/"
             },
             {
                 "title": "MeeTondev",
                 "category": "Projet final de formation en équipe de 3, disponible le 06 Novembre 2021",
                 "image": "project4.jpg",
-                "url": "https://www.google.com"
+                "url": "https://github.com/MaximeKirch/osLink"
             },
             {
                 "title": "Battle Changer",
