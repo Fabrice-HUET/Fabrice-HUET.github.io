@@ -24,6 +24,7 @@ export default function About(props) {
                     <h2>Ces derniers mois...</h2>
 
                     <p>{bio}</p>
+                    <hr/>
                     <div className="row">
                         <div className="columns contact-details">
                             <h2>Me contacter</h2>

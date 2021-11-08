@@ -1,7 +1,7 @@
 {
     "main": {
         "name": "Fabrice HUET",
-        "description": "Développeur Front-End, j'apprécie React.js pour développer des applications web.",
+        "description": "Mon expérience m'a amenée à évoluer au sein d'environnements professionnels très variés. Passionné par les nouvelles technologies et l'univers du web, j'ai décidé de me former à la Wild Code School pour devenir Développeur Front-End.",
         "image": "profilepic.jpg",
         "bio": "Après une formation de 5 mois à la Wild Code School pour devenir développeur Front-End, je suis maintenant à la recherche de ma première expérience professionelle comme développeur. D'une nature altruiste, j'adore travailler en équipe sur des projets communs, et je ne cesse de me former aux différentes technologies que je n'ai pas pu apprendre au cours de ma formation.",
         "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
@@ -99,7 +99,7 @@
                 "level": "65%"
             },
             {
-                "name": "Bootstrap / Tailwind",
+                "name": "Bootstrap",
                 "level": "70%"
             }
         ]
@@ -135,6 +135,19 @@
                 "category": "Premier projet réalisé à la Wild Code School",
                 "image": "project1.jpg",
                 "url": "https://fabrice-huet.github.io/Souplade/"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [
+            
+            {
+                "user": "Maxime Kirch - Projet Battle Changer & MeeTonDev'",
+                "text": "Au cours de ma formation à la Wild Code School j’ai eu l’opportunité de partager un projet de groupe d’une durée de 3 mois en plus d’un hackathon de 24h avec Fabrice. J’y ai rencontré une personne sans cesse en quête de défis et en recherche d’apprentissage, mais aussi un être humain. Quelqu’un qui vous écoute et prend le temps de discuter (et parfois aussi débattre ! ) dans le but de faire évoluer le projet. “Patience”, “rigueur”, “bonne humeur” et “persévérance” sont quelques mots pour qualifier Fabrice. Partager des projets avec lui m’a aussi permis de réaliser des choses dont je ne me pensais pas capable."
+            },
+            {
+                "user": "Jefferson Guegan - Projet Battle Changer & MeeTonDev'",
+                "text": "J’ai eu l’opportunité de travailler avec Fabrice sur un projet d’une de durée de 3 mois et lors d’un hackathon. J’ai apprécié son professionnalisme, son sens du détail, son implication et sa bonne humeur. Toujours en recherche de perfectionnement, il est sans cesse force de proposition. Notre coopération m’a beaucoup apporté tant sur le plan technique qu’humain."
             }
         ]
     }

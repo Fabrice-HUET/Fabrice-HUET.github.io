@@ -31,13 +31,18 @@ export default function Header(props) {
                     <li className="current"><a className="smoothscroll" href="#home">Accueil</a></li>
                     <li><a className="smoothscroll" href="#about">A propos</a></li>
                     <li><a className="smoothscroll" href="#resume">Parcours</a></li>
+                    <li><a className="smoothscroll" href="#testimonials">Témoignages</a></li>
                     <li><a className="smoothscroll" href="#portfolio">Projets</a></li>
                 </ul>
             </nav>
             <div className="row banner">
                 <div className="banner-text">
                     <h1 className="responsive-headline">{name}</h1>
-                    <h3>{description}.</h3>
+                    <h3>{description}</h3>
+                    <hr/>
+                    <ul className="social-links">
+                        {networks}
+                    </ul>
                 </div>
             </div>
             <p className="scrolldown">
