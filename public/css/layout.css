@@ -74,14 +74,14 @@ header .banner-text h1 {
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
 }
-header .banner-text h3 {
+header .banner-text h2 {
    font: 18px/1.9em 'librebaskerville-regular', serif;
-   color: #ddd;
+   color: var(--Coconut-Milk);
    margin: 0 auto;
    width: 70%;
 }
-header .banner-text h3 span,
-header .banner-text h3 a {
+header .banner-text h2 span,
+header .banner-text h2 a {
    color: var(--Coconut-Milk)/* #fff */;
 }
 header .banner-text hr {
@@ -211,7 +211,7 @@ ul#nav li.current a { color: var(--Coralessence); /* #fe6928 */ }
 }
 #about p {
    line-height: 30px;
-   color: var(--Monument)/* #ccc */;
+   color: var(--Coconut-Milk)/* #ccc */;
    text-align: justify;
 }
 #about .profile-pic {
@@ -872,7 +872,7 @@ call-to-action .button {
 #testimonials blockquote p {
    font-family: 'librebaskerville-italic', serif;
    padding: 0;
-   font-size: 24px;
+   font-size: 20px;
    line-height: 48px;
    color: var(--Coconut-Milk) /* #fff */;
    text-align: justify;
