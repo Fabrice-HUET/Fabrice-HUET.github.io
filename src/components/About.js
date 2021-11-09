@@ -1,4 +1,5 @@
 import React from 'react';
+import Pdf from "./CV/CV-Fabrice-HUET.pdf";
 
 export default function About(props) {
 
@@ -39,7 +40,7 @@ export default function About(props) {
                         </div>
                         <div className="columns download">
                             <p>
-                                <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Mon CV</a>
+                                <a href={Pdf} target = "_blank" className="button"><i className="fa fa-download"></i>Mon CV</a> {/* https://www.cjoint.com/c/KKipA4U1HK5 */}
                             </p>
                         </div>
                     </div>
